@@ -3,7 +3,7 @@
                                              :]fvOba#W&W&#*kZYr}l.                                            
                                          `]nZ*%B%BB%%&%&&%8BB$@BWpC),                                         
                                        lnd%B%8%B@$$$@@$$$@@BB%888%@@#Q_                                       
-                                     'f#B@@$$$B%akbdo#wZd##8W8B@$B%8%$%O! .                                   
+                                     'f#B@@$$$B%akbdo#wZd##8W8B@$B%8%$%O! .                          jane@github  --------------             
                                     Ib$$$8hJvr)]>I'.'' .">+{}(\nX*B%%%%$*_                                    
                                    _#@Zcf]<><<~_?-_+<<_[1)1{}}}[[U&%@@B8@Wl                                   
                                   ,M#n}++-}|/tfrxnvuvXJCUYXvxftfum#&BB@@8$q'                                  
@@ -34,7 +34,7 @@
       . -@W8W&8&88%%%8888%%%%%B8%%%%%BBBB@@@$8i;'   . ;b@8%B$f    ^`"`p$B$@@@@B%BBBB%%BB%BBBBBB%%%%%%%%%%88%@$
 
 
-jane@github  --------------
+
 OS: ................. GitHub, Web
 Uptime: ............. 3 years, 4 months
 Host: ............... placeholder-user
