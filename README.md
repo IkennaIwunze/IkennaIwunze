@@ -1,3 +1,6 @@
+# placeholder-user / README.md
+
+```
 ...........................'^""^'...........................
 .......................;]rYmpkkdmCn}l.......................
 .....................]L#B$@BBB8@$@$BMZ)`....................
@@ -40,3 +43,4 @@ Contact.LinkedIn: ...... placeholder-user
 GitHub Stats
 Repos: .... 0   |   Stars: ...... 0
 Commits: .. 0   |   Followers: .. 0
+```
