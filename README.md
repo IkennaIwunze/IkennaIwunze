@@ -1,40 +1,30 @@
-                                             
-                                                  '^,;!I!:".                                                  
-                                             :]fvOba#W&W&#*kZYr}l.                                            
-                                         `]nZ*%B%BB%%&%&&%8BB$@BWpC),                                         
-                                       lnd%B%8%B@$$$@@$$$@@BB%888%@@#Q_                                       
-                                     'f#B@@$$$B%akbdo#wZd##8W8B@$B%8%$%O! .                          jane@github  --------------             
-                                    Ib$$$8hJvr)]>I'.'' .">+{}(\nX*B%%%%$*_                                    
-                                   _#@Zcf]<><<~_?-_+<<_[1)1{}}}[[U&%@@B8@Wl                                   
-                                  ,M#n}++-}|/tfrxnvuvXJCUYXvxftfum#&BB@@8$q'                                  
-                                . /BrxvuvvvvvnuuunvcccvnnnxrrxrnXmk#8@@@@BB_                                  
-                                  )MYQCCXvunnxnnxxjjrnnvuxxnxft\\uzO&$@@@@@~                                  
-                                  `dqLYrfjxnxuczXYUOdaW88&WW#ob0x)(tX#@@$$W'                                  
-                                   +QZmd#**kpmLCQZd*&88Wo*###WMM#Z/}{z%$8hQxi                                 
-                                    z&##MW8%%&kZYYZk#%%&bWB8W*bmOCX\{[LwJ0Loh"                                
-                                    [a*%a#&8W*oZ|fzZO0OZwwOCXj{{{(fnr\\fchkvw!                                
-                                    `wdppkbmQQO)-?{)jxXwq0YcxffjttrxtrcxXJmOn.                                
-                                    .Yr{|tnYrn\1|1\fnJQdpqhoohkdpmwwLnuXmXnXl                                 
-                                    'vrnX0dwJOdpppk&8%aOC0ph&B8WMhbkpCzC(j\,                                  
-                                     zwmh#hpwqdddhahhpmwpb*&BBW*akkhbwUY^                                     
-                                     !ZoWBBMdpZL0QCYnxrfjzZbpqhahhkbpqJY:                                     
-                                      !0oo**a#*/[[[]<{}\jvcUCwhaoakdpmOC"                                     
-                                       '\wobOLCufxjrXJCJJYCZmqpbaaahkkqC"                                     
-                                         ,\ZkpOJ0wbaakpw00QJLmph#&&W*kwQ"                                     
-                                        .   {bm0LLLQ0LJUJLLmk*&%B%WokdwU<1   .                                
-                                      .    }?XkdwZmmpdbha*&B$@B&W#akddbt.Qm+    .                             
-                                .       ltpB:lma*WW&&%BB@@@B8Moooakkhq\' !$@q\:      ..                       
-                                   ^>{nq%$$h  ,nb*akh*MWW&&WM*aahahZt;   ?@B$$&Ot-;.      ..                  
-                       .      "~\Yp#%@$@BB@W^   ljwo*o**MWWMM*#opz]^     0$B@B$$$$8a0u1i^      .              
-                 .       .l{vm#@$$@%88%B@@B${ .   '?Xb#MWWWW#kJ{:       _@@@$$@BBB@$$$$%*mv1i`       .        
-           .        `I_|YdW@@@B%8&&&8%B@@$B$m         _zQOZY}.         'd$B@@@@@BB%%BBBB$$$@%a0r?l'       .   
-              :~1jYObMB@@B%8888%%BB%%%B@@@@@W"     '{UkMkdphhL),       _@B@@@@@BBBBBB@@@@BBBB@$$@&hZXt?I.     
-         .+\Up*&%BB%%%%8888%88%%%BBBBBBB@@@B${   `-r#$$$$$$$$$BC1"     w$B@@@@@@@B@@BBBBBB@@BB%%%B@@@@B&kLf_" 
-        '0%BB%&W&&&888%%%%%8888%BBBB%%BB@@@B$0 ^"~{iI)*$B%8B@M_i+-<^. ]$B@@@@@@B@@BBBBBB%BBBBBBB%%B%888%B@@BML
-      . -@W8W&8&88%%%8888%%%%%B8%%%%%BBBB@@@$8i;'   . ;b@8%B$f    ^`"`p$B$@@@@B%BBBB%%BB%BBBBBB%%%%%%%%%%88%@$
+
+.......................-...`!l1YxxJ[r'...-.......................
+........................~i5d8WWWMMWWQbhj!........................
+......................`28M@@@MMMWMMMM@MMQZ^......................
+.....................*b@Wqh3C[<c(LY2ohmWWM#/.....................
+....................*0UjL>l]it77C}fJzioQMWM0~....................
+..................-.5dfxIn33oo%5%on2{2wOWMM@}.-..................
+..................-.xqZ%u22n3noZw$kXa2}nmMM@J.-..................
+....................~k99q&9XX9OWWQBBB8$JC0M02_...................
+...................-.JQQBMWOaap0Ob0b945n12h6mI.-.................
+.....................rpddd6Xii}2k&Xo}jfu2{n6UL.-.................
+.....................^nC3h%%u3X&q6q08Od&woh5j`...................
+.....................~XUOp6pm0#OU9mWW0mpd$J_-....................
+......................i0B#m&nn}Jf2kUqmbp&61......................
+.......................c9OdwYY{o4aZkUpmbddJ.`....................
+......................-.:t$9k6d&$kXwdO##bdY,..-..................
+...................--....*jpU9U&qp0BBQ8bpp>uv....---.............
+...............-......"t$#;}0Q8#BWWQOmOm97.j@&C!......--.........
+.........---.....,?jZq8WM#,.<ab88####mXv,..hMWM#dh}>_.....---....
+......-......,/fXmBWBBQBBMi...+C$bm9jr...-\WWBBBWMMW06n7^......--
+.......-*ljo$mQWWBQQQ#QBBM4.`."{Udd6x*..-.4MBWBBQBBBWWMW8&aY]!...
+.....\aq0QBBBBQ###QQBQQBBWb-`|x0@WBMMn<~.;#WBBBBWBQQQQQQBWWWB8qoL
+.....&MQ#######Q#QQQQQQBBBWl,_`.oM#M1."^-2MBWBBBQQQBQQQQQQQ##QWWW
+..-.tB#Q#QQQ#QQ##QBQQQQBBQM{..-.>MQM?....dWBWBBBBQWBQQQQQQQQQQBBB
 
 
-
+jane@github  --------------
 OS: ................. GitHub, Web
 Uptime: ............. 3 years, 4 months
 Host: ............... placeholder-user
