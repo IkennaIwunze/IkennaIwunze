@@ -1,41 +1,41 @@
 # placeholder-user / README.md
 
 ```
-.......................-...`!l1YxxJ[r'...-.......................
-........................~i5d8WWWMMWWQbhj!........................
-......................`28M@@@MMMWMMMM@MMQZ^......................
-.....................*b@Wqh3C[<c(LY2ohmWWM#/.....................
-....................*0UjL>l]it77C}fJzioQMWM0~....................
-..................-.5dfxIn33oo%5%on2{2wOWMM@}.-..................
-..................-.xqZ%u22n3noZw$kXa2}nmMM@J.-..................
-....................~k99q&9XX9OWWQBBB8$JC0M02_...................
-...................-.JQQBMWOaap0Ob0b945n12h6mI.-.................
-.....................rpddd6Xii}2k&Xo}jfu2{n6UL.-.................
-.....................^nC3h%%u3X&q6q08Od&woh5j`...................
-.....................~XUOp6pm0#OU9mWW0mpd$J_-....................
-......................i0B#m&nn}Jf2kUqmbp&61......................
-.......................c9OdwYY{o4aZkUpmbddJ.`....................
-......................-.:t$9k6d&$kXwdO##bdY,..-..................
-...................--....*jpU9U&qp0BBQ8bpp>uv....---.............
-...............-......"t$#;}0Q8#BWWQOmOm97.j@&C!......--.........
-.........---.....,?jZq8WM#,.<ab88####mXv,..hMWM#dh}>_.....---....
-......-......,/fXmBWBBQBBMi...+C$bm9jr...-\WWBBBWMMW06n7^......--
-.......-*ljo$mQWWBQQQ#QBBM4.`."{Udd6x*..-.4MBWBBQBBBWWMW8&aY]!...
-.....\aq0QBBBBQ###QQBQQBBWb-`|x0@WBMMn<~.;#WBBBBWBQQQQQQBWWWB8qoL
-.....&MQ#######Q#QQQQQQBBBWl,_`.oM#M1."^-2MBWBBBQQQBQQQQQQQ##QWWW
-..-.tB#Q#QQQ#QQ##QBQQQQBBQM{..-.>MQM?....dWBWBBBBQWBQQQQQQQQQQBBB
-...r8BBBQQQQQQQQQQQBQQQQBBM&.-.!#MQM9.-.<WBBBBBBBWWQQQBBBBBBBBBWW
-..-UWWWWWQQQQQQQQQQBBBBBBBBB*..h@WBQW|..hMBBBBBQWWBBBBBBBWWWWWWMM
--.JMBWWWWBBBQQQQQQQQWBBBBBBMx.^8WBBQM{.(BBWWBBBWWBBBBBBBWWWWMWMMM
-.'mMWWWWMMWBBQBQBBQQBWBBBBBMb.]WQBBQMa.5MBWBBBWWBBBBBWWWMMMMMWMMM
-.LMWWMMMMMMWBBBBBBBBBBWBBWWBM/1MQBBBMa,QWWWBBWWBBBWWWWWMMMMMMMMMM
-.XMWWWMMM@MMWWWWBBBBBBWWBBWB@4u@QBBBM5YMWWWBWMWWWWWWMMMMMM@MMMMMM
-~8WWWWWMMM@MMWWWWWBWWWBWWBWWW#qMBBBBWp0WWWBWMWWWMMMMMMMMM@@MMMMMM
-tWWWWMMMMM@MMMWWWWWWWWWWMMWWWWMWBBBBWMWWWWWMMMMMMMMMMMMMM@@MMMMMM
-XMWWWMMMM@@MMMMMWWWWWWWWWMMWWWMMWBWWMWWWWWMMWWWWMMMMMMMM@@@MMMMMM
-0WWWWWMMMM@@MMMMMMWWWWWWWWMMWWM@MWWMMWWWMMMWWWWMMMMMMMM@@@@MMMMMM
-QWMMMWMMM@@@MMMMMMMMWWWWWWMMMWMMMWWMWWMMMMWMMMMMMMMMMM@@@@@MMMMMM
-BMMMMMMM@@@@@MMMMMMMMMWWWWWMMMMMMMMMWWMMMMMMMMMMM@MMM@@@@@@MMMMMM
+                            .--====::                            
+                        .-+#%%@@@@@%%#*=.                        
+                       +%@@@@@@@%@@@@@@@%*.                      
+                     .#@%#*+=-:::-=++*#@%@%:                     
+                    .%#=-:------===---+%@@@#.                    
+                    +#==++++++++++++=+*%%@@@=                    
+                    +#*++=+=+++*****++=+#@@@-                    
+                    .***##****%%@%%%@%*==#@%+.                   
+                     -%@%@@#*+#%#%%#*+++-+**#+                   
+                     :####**--=+***+===++=+#*-                   
+                     .+=+*++++*##*#%%%#**+*+=                    
+                     .+######%%##*%%@##%#*-.                     
+                      -%%%##++=-=+**#%###*=                      
+                       :#%#*===+*+**######=                      
+                         -***###****##%%##=                      
+                         .=##*####%%%%%%##:+-                    
+                      .-*%.=%%%%%@%%%%#%*- =@#=.                 
+                 .:=*#%@@%. :+#%%%%%%#*-   *@%@%#*=:.            
+             .:=*#%@%%%%%@-   .=*###=.    :%@%%@%@@%%#+-.        
+        .-=+*#%%%%%%%%%@%@+   .=###*=:    *@%@%%%%@%%@%@%#+=-.   
+     :*#%%%%@%%%%%%%@%%%%@# .:=%@%@@@+:. .%%%%@%@%%%%%%%%%@@%%#+-
+     #%%%%%%%%%%%@%%%%@%%%@:..  +@%@- .. +@%@%%@%%@%%@%%%%%%%%@%@
+    -%%%%%%%%%%%%%%%@%%%@%@=    :@%@:    #%@%@%%%%@%%%%@%%%%%%%%%
+   .%@%@%%%%%%%%%%@%%%%%@%@#   .%@%@*   :@%%@%%@%@%%@%%%@%@%@%@@%
+   #@%@%@%@%%%@%%%%@%@%@%%%%.  *@@%%@:  *@%@%%@%%@%%%@%@%@%@%@%@@
+  =%%@%@%%%%@%%%@%%%@%%%@%@@= .%%%%%@= :%%@%%%%@%%@%@%%%@%@%@%@%@
+  %@@%@%@@@%%%@%%%@%%@%@%%%@# -@%@%%@+ +@%%@%@%@%@%%%@@%@@%@@@@@%
+ -%%@@%@@@%@%@%%@%%%%@%%@%@%@:-@%%@%@* %@@%%%@%@%%@@%@%@%@@@%@%@@
+ *@@%@%@%@@@%@%@%%@%@%@@%%@%@*+@%%@%@+=@%@%@%@%@%@%@%@@@@@@@@@@@%
+.%%@%@@%@@@@@%@%@%%@%%%@@%%@%%#%@%%%@#%@%@%@@@%@@%@@@%@%@@@@%@%@@
+-%@%@%@@@@@@%@%@%@%%@@%%@@%@%@@%@%@%@%@%@%@%@%@%@@%@@@@@@@@@@@@@%
+*@%@%@%@@@@@@@@%@%@%@%@%@%@%@%@@%%@%@%@%@%@@%@@%@%@@%@@@@@@%@%@%@
+%%@@%@@@%@@@@%@@@%@@%%@%@%@@%@%@@%@%@%@%@@@%@%@@%@@%@@@%@@@@@@@@%
+%@%@@%@%@@@@@@@%@@@%@@%@%@@@@%@@@%@@@%@@@@%@@@%@@@@@@@@@@@@@@@%@@
+%@@%@%@@@@@@@@@@@%@@%@@%@%@%@@%@@@@%@@%@@@@%@%@@@@@@@%@@@@@@%@@@@
 
 jane@github  --------------
 OS: ................. GitHub, Web
